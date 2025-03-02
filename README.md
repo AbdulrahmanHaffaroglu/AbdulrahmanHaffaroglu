@@ -8,6 +8,6 @@
 -  outlook email: 030723118@std.izu.edu.tr
 - Gmail: abdhaffar05@gmail.com
 - 😄 Pronouns: The Professors
-- ⚡ Fun fact: By mastering *01* you could role the whole world..
+- ⚡ Fun fact: By mastering *01* you could rule the whole world..
 - ## My LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AbdHffr)
